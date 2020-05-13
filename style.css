@@ -17,3 +17,8 @@ nav a {
   padding-right: 10px;
   background-color: #eee;
 }
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+}
