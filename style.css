@@ -35,3 +35,10 @@ figcaption {
   margin: auto;
   line-height: 1.5em;
 }
+
+#details {
+  display: block;
+}
+#details div {
+  float: left;
+}
