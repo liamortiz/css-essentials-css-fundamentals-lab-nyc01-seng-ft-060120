@@ -20,7 +20,7 @@ nav a {
   text-decoration: none;
 }
 nav a:hover {
-  opacity: 0.9;
+  background-color: gray;
 }
 
 figcaption {
