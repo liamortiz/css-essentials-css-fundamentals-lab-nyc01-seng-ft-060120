@@ -18,7 +18,7 @@ nav a {
   background-color: #eee;
   color: black;
   text-decoration: none;
-  transition: 2s opacity;
+  transition: 2s color;
 }
 nav a:hover {
   background-color: gray;
