@@ -18,6 +18,10 @@ nav a {
   background-color: #eee;
 }
 
+figcaption {
+  text-align: center;
+}
+
 #featured-property p {
   width: 800px;
   text-align: center;
